@@ -1,0 +1,21 @@
+
+	--==[ SPLAT! v1.4.0 Site Analysis Report For: Site-1 ; write whatever name you want here ]==--
+
+---------------------------------------------------------------------------
+
+Site location: 50.4501 North / 329.4766 West (50° 27' 0" N / 329° 28' 35" W)
+Ground elevation: 156.00 meters AMSL
+Antenna height: 94.00 meters AGL / 250.00 meters AMSL
+Antenna height above average terrain: 120.16 meters
+
+Average terrain at   0 degrees azimuth: 92.89 meters AMSL
+Average terrain at  45 degrees azimuth: 101.18 meters AMSL
+Average terrain at  90 degrees azimuth: 110.52 meters AMSL
+Average terrain at 135 degrees azimuth: 96.52 meters AMSL
+Average terrain at 180 degrees azimuth: 140.73 meters AMSL
+Average terrain at 225 degrees azimuth: 173.57 meters AMSL
+Average terrain at 270 degrees azimuth: 169.26 meters AMSL
+Average terrain at 315 degrees azimuth: 154.06 meters AMSL
+
+---------------------------------------------------------------------------
+
